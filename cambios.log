@@ -1,0 +1,247 @@
+[2023-04-09 01:09:32] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin
+[2023-04-09 01:09:55] [ INFO ] [OdontologoService:54] Se listaron todos los odontologos
+[2023-04-09 01:10:12] [ INFO ] [OdontologoService:32]  Se encontro un odontologo con id: 1
+[2023-04-09 01:10:18] [ INFO ] [OdontologoService:32]  Se encontro un odontologo con id: 1
+[2023-04-09 01:10:18] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 1
+[2023-04-09 01:10:18] [ INFO ] [OdontologoService:54] Se listaron todos los odontologos
+[2023-04-09 01:11:55] [ INFO ] [OdontologoService:32]  Se encontro un odontologo con id: 1
+[2023-04-09 01:11:55] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-09 01:28:16] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin dellugo
+[2023-04-09 01:28:18] [ INFO ] [OdontologoService:54] Se listaron todos los odontologos
+[2023-04-09 01:28:23] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 1
+[2023-04-09 01:28:24] [ INFO ] [OdontologoService:54] Se listaron todos los odontologos
+[2023-04-09 01:28:25] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-09 01:28:37] [ INFO ] [PacienteService:24] se registro un paciente con nombre: martin dellugo
+[2023-04-09 01:28:39] [ INFO ] [PacienteService:47] Se listaron todos los pacientes
+[2023-04-09 01:28:48] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: martin dellugo
+[2023-04-09 01:28:48] [ INFO ] [PacienteService:47] Se listaron todos los pacientes
+[2023-04-09 01:28:51] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-09 01:29:02] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin dellugo
+[2023-04-09 01:29:17] [ INFO ] [PacienteService:24] se registro un paciente con nombre: martin dellugo
+[2023-04-09 01:29:20] [ INFO ] [OdontologoService:54] Se listaron todos los odontologos
+[2023-04-09 01:29:22] [ INFO ] [PacienteService:47] Se listaron todos los pacientes
+[2023-04-09 01:29:38] [ INFO ] [TurnoService:35] Se listaron todos los turnos
+[2023-04-09 01:29:47] [ INFO ] [TurnoService:72] Se registro un turno en la base de datos
+[2023-04-09 01:29:50] [ INFO ] [TurnoService:35] Se listaron todos los turnos
+[2023-04-09 01:30:05] [ INFO ] [TurnoService:67] Se actualizo un turno con id: 1
+[2023-04-09 01:30:05] [ INFO ] [TurnoService:35] Se listaron todos los turnos
+[2023-04-09 01:30:09] [ INFO ] [TurnoService:55] Se elimino un turno con id: 1
+[2023-04-10 12:33:36] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin dellugo
+[2023-04-10 12:33:47] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 1
+[2023-04-10 12:33:49] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-10 12:34:41] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin dellugo
+[2023-04-10 12:34:53] [ INFO ] [PacienteService:24] se registro un paciente con nombre: martin dellugo
+[2023-04-10 12:35:26] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos
+[2023-04-10 12:36:39] [ INFO ] [TurnoService:66] Se actualizo un turno con id: 1
+[2023-04-10 12:36:43] [ INFO ] [TurnoService:54] Se elimino un turno con id: 1
+[2023-04-10 18:56:48] [ ERROR] [OdontologoService:43] no se puede eliminar el odontologo con id: 1
+[2023-04-10 18:58:30] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Martin Perez
+[2023-04-10 18:58:30] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-10 18:59:54] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 18:59:54] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-10 19:36:47] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 19:36:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 20:04:12] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Martin Perez
+[2023-04-10 20:04:12] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-10 20:14:12] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Martin Perez
+[2023-04-10 20:14:12] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 1
+[2023-04-10 20:18:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 20:18:05] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-10 20:38:44] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Martin Perez
+[2023-04-10 20:50:46] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 20:50:46] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 20:51:56] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 20:51:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:09:32] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:09:32] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:25:22] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:25:22] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:25:22] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: 1
+[2023-04-10 21:25:22] [ INFO ] [TurnoService:66] Se actualizo un turno con id: 1
+[2023-04-10 21:29:26] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:29:26] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:30:11] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:30:11] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:30:11] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: 1
+[2023-04-10 21:30:11] [ INFO ] [TurnoService:54] Se elimino un turno con id: 1
+[2023-04-10 21:31:47] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:31:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:31:47] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: 1
+[2023-04-10 21:31:47] [ INFO ] [TurnoService:54] Se elimino un turno con id: 1
+[2023-04-10 21:36:00] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:36:00] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:36:00] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: 1
+[2023-04-10 21:36:00] [ INFO ] [TurnoService:54] Se elimino un turno con id: 1
+[2023-04-10 21:36:53] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Perez
+[2023-04-10 21:36:53] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin Perez
+[2023-04-10 21:36:53] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: 1
+[2023-04-10 21:36:53] [ INFO ] [TurnoService:54] Se elimino un turno con id: 1
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 15:59:50] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:03:10] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:27] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:27] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:06:28] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:08:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:09:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:09:48] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:09:49] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:12:21] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:18:07] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:18:27] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Eugenio Mendez
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:50]  Se actualizo un odontologo con id: 3
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:40] Se elimino correctamente un odontologo con id: 1
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: Juan Perez
+[2023-04-11 16:22:51] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin Fernanadez
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Eugenio Mendez
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:23:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:52] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:53] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:30:53] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Eugenio mendez
+[2023-04-11 16:31:23] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:23] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:44] Se actualizo en la base de datos el paciente de nombre: Martin Lopez
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:34] Se elimino un paciente con id: 1
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 16:31:24] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Eugenio mendez
+[2023-04-11 16:59:05] [ INFO ] [OdontologoService:27] Se registro un odontologo con nombre: martin dellugo
+[2023-04-11 16:59:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: martin dellugo
+[2023-04-11 16:59:56] [ INFO ] [TurnoService:71] Se registro un turno en la base de datos con id: null
+[2023-04-11 18:10:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:10:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:10:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:10:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:10:47] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:04] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:13:56] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-11 18:15:43] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Martin dellugo
+[2023-04-12 17:53:34] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 17:54:07] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: Flor y Martin juntos
+[2023-04-12 17:54:15] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 2
+[2023-04-12 17:54:31] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: negrita linda
+[2023-04-12 17:57:50] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-04-12 18:01:36] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-04-12 18:02:12] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 18:02:26] [ INFO ] [TurnoService:74] Se registro un turno en la base de datos con id: null
+[2023-04-12 18:02:46] [ INFO ] [TurnoService:69] Se actualizo un turno con id: 1
+[2023-04-12 18:02:57] [ INFO ] [OdontologoService:53]  Se actualizo un odontologo con id: 1
+[2023-04-12 18:03:05] [ INFO ] [TurnoService:57] Se elimino un turno con id: 1
+[2023-04-12 18:03:09] [ INFO ] [PacienteService:37] Se elimino un paciente con id: 1
+[2023-04-12 18:03:15] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 18:03:24] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 1
+[2023-04-12 18:03:25] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 2
+[2023-04-12 18:03:31] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 18:03:46] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-04-12 18:04:51] [ INFO ] [TurnoService:74] Se registro un turno en la base de datos con id: null
+[2023-04-12 18:22:09] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 18:22:17] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 18:22:42] [ INFO ] [OdontologoService:53]  Se actualizo un odontologo con id: 1
+[2023-04-12 18:22:45] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 1
+[2023-04-12 18:22:58] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-04-12 18:23:15] [ INFO ] [TurnoService:74] Se registro un turno en la base de datos con id: null
+[2023-04-12 18:23:30] [ INFO ] [TurnoService:69] Se actualizo un turno con id: 1
+[2023-04-12 18:23:32] [ INFO ] [TurnoService:57] Se elimino un turno con id: 1
+[2023-04-12 23:12:51] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 23:13:01] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-04-12 23:13:15] [ INFO ] [OdontologoService:53]  Se actualizo un odontologo con id: 1
+[2023-04-12 23:13:20] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 1
+[2023-04-12 23:13:32] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-04-12 23:13:47] [ INFO ] [TurnoService:74] Se registro un turno en la base de datos con id: null
+[2023-04-12 23:14:09] [ INFO ] [TurnoService:69] Se actualizo un turno con id: 1
+[2023-04-12 23:14:44] [ INFO ] [TurnoService:69] Se actualizo un turno con id: 1
+[2023-04-12 23:14:47] [ INFO ] [TurnoService:57] Se elimino un turno con id: 1
+[2023-08-07 16:22:50] [ INFO ] [OdontologoService:30] Se registro un odontologo con nombre: martin dellugo
+[2023-08-07 16:24:50] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
+[2023-08-07 16:25:12] [ INFO ] [TurnoService:74] Se registro un turno en la base de datos con id: null
+[2023-08-07 16:25:34] [ INFO ] [TurnoService:69] Se actualizo un turno con id: 1
+[2023-08-07 16:26:08] [ INFO ] [TurnoService:57] Se elimino un turno con id: 1
+[2023-08-07 16:26:13] [ INFO ] [OdontologoService:43] Se elimino correctamente un odontologo con id: 1
+[2023-08-07 16:26:16] [ INFO ] [PacienteService:37] Se elimino un paciente con id: 1
+[2023-08-08 21:47:52] [ INFO ] [PacienteService:27] se registro un paciente con nombre: martin dellugo
